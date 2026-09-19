@@ -64,6 +64,10 @@ Kotlin과 AndroidX로 만든 인턴십 실습용 단일 Android 앱이며, 화�
 
 기존 README가 없어 이관 0건, legacy 보존 0건이다 (2026-09-19 확인).
 
+## 다른 저장소와 어떻게 이어지나
+
+확인된 사내 저장소 관계 없음 (워크플로 overlay·워크플로 교차 체크아웃·매니페스트 깃 URL·서브모듈·코드와 실행 설정의 사내 호스트 호출, 2026-09-19 조회).
+
 ## 근거
 
 - 트리·코드: `git ls-files`, `app/src/main/AndroidManifest.xml`, `app/src/main/java/`, `app/src/main/res/` (2026-09-19 읽음)
