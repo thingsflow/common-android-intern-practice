@@ -52,11 +52,16 @@
  "measure": {
   "repo": "common-android-intern-practice",
   "tier": "C",
+  "baseRef": "origin/main",
+  "firstBaseCommitDate": "2022-03-29",
+  "firstBaseCommitSha": "b8da450",
   "entrySurface": false,
   "important": false,
   "importantBecause": [],
   "minPages": 10,
-  "trackedFiles": 69,
+  "trackedFiles": 64,
+  "nonVendoredFiles": 64,
+  "worktreeTrackedFiles": 68,
   "skippedSymlinks": 0,
   "manifestsRead": [
    "app/build.gradle",
@@ -74,6 +79,9 @@
   "integrations": [],
   "dataModelDirs": [],
   "sqlFiles": 0,
+  "relations": [],
+  "relationGaps": [],
+  "relationCandidates": [],
   "documents": [
    "structure/INDEX.md"
   ],
